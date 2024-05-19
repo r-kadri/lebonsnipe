@@ -1,0 +1,20 @@
+{
+  "name": "lebonsnipe",
+  "productName": "lebonsnipe",
+  "version": "1.0.0",
+  "description": "Enter your search criteria and receive real-time alerts for new postings on leboncoin.fr",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "npx electronmon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-kadri/lebonsnipe.git"
+  },
+  "author": "Ryan Kadri",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.6"
+  }
+}
